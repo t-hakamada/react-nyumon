@@ -13,6 +13,7 @@ import {createBrowserHistory} from 'history';
 // https://github.com/reactjs/react-router-redux/blob/master/README.md
 // https://stackoverflow.com/questions/54402637/connectedrouter-typeerror-cannot-read-property-dispatch-of-undefined
 
+// TODO: anyの修正
 // historyのインスタンスを生成
 // HTML5 history APIを利用する
 const history = createBrowserHistory();
